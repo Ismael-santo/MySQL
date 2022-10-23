@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">AppMySQL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Practica</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">INICIO</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_cat">Registro De Categorias</string>
+    <string name="title_prod">Registrar Productos</string>
+
+    <string-array name="valorspinner">
+        <item>Seleccione una opción</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="estadoProducto">
+        <item>Seleccione una opción</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="sp_fk">
+        <item>Seleccione una categoria</item>
+    </string-array>
+
+    <string-array name="estadoUser">
+        <item>Seleccionar estado de usuario</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <string-array name="tipoUser">
+        <item>Seleccionar un tipo de usuario</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+
+    <string-array name="preguntaUser">
+        <item>Seleccione una pregunta</item>
+        <item>1- ¿Le gusta programar?</item>
+        <item>2- ¿Le gusta diseñar?</item>
+        <item>3- ¿Le gusta la Informatica? </item>
+        <item>4- ¿Le gusta la musica? </item>
+        <item>5- ¿Le gusta crear app? </item>
+    </string-array>
+</resources>
